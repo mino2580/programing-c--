@@ -1,0 +1,3 @@
+-IC:\Users\milan\Desktop\Mega\codeline programi\clas_c++\1_struct_ukazatele_a_funkce
+-target
+x86_64-pc-cygwin
