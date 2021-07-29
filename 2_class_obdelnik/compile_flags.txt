@@ -1,0 +1,3 @@
+-IC:\Users\milan\Desktop\Mega\codeline programi\clas_c++\2_class_obdelnik
+-target
+x86_64-pc-cygwin

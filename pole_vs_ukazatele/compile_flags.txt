@@ -1,0 +1,3 @@
+-IC:\Users\milan\Desktop\Mega\codeline programi\clas_c++\pole_vs_ukazatele
+-target
+x86_64-pc-cygwin
